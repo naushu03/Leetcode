@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
