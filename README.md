@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/naushu03/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -75,9 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
