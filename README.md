@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0485-max-consecutive-ones](https://github.com/naushu03/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naushu03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naushu03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
