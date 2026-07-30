@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naushu03/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/naushu03/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
