@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0669-trim-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0669-trim-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/naushu03/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0669-trim-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
