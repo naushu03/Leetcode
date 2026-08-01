@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/naushu03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naushu03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naushu03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0647-palindromic-substrings](https://github.com/naushu03/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/naushu03/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/naushu03/Leetcode/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/naushu03/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naushu03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/naushu03/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naushu03/Leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/naushu03/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
