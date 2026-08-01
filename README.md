@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naushu03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/naushu03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/naushu03/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/naushu03/Leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/naushu03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naushu03/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naushu03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/naushu03/Leetcode/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/naushu03/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/naushu03/Leetcode/tree/master/0412-fizz-buzz) |
