@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/naushu03/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/naushu03/Leetcode/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naushu03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/naushu03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/naushu03/Leetcode/tree/master/0174-dungeon-game) |
+| [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/naushu03/Leetcode/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naushu03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
