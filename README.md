@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/naushu03/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/naushu03/Leetcode/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naushu03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/naushu03/Leetcode/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
