@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naushu03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/naushu03/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/naushu03/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naushu03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/naushu03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/naushu03/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/naushu03/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naushu03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
