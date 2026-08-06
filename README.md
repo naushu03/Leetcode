@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/naushu03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0669-trim-a-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/naushu03/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naushu03/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/naushu03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/naushu03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/naushu03/Leetcode/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/naushu03/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/naushu03/Leetcode/tree/master/0815-bus-routes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/naushu03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/naushu03/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/naushu03/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -234,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/naushu03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/naushu03/Leetcode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/naushu03/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
