@@ -1,10 +1,14 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        pref=0
-        res=0
-        d={0:1}
-        for i in nums:
-            pref+=i%2
-            res+=d.get(pref-k,0)
-            d[pref]=d.get(pref,0)+1
-        return res
+        def atmost(nums,k):
+            pref=0
+            res=0
+            left=0
+            for right in range(len(nums)):
+                pref+=nums[right]%2
+                while pref>k:
+                    pref-=nums[left]%2
+                    left+=1
+                res+=right-left+1
+            return res
+        return atmost(nums,k)-atmost(nums,k-1)
