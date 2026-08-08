@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naushu03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/naushu03/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/naushu03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/naushu03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/naushu03/Leetcode/tree/master/0412-fizz-buzz) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naushu03/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/naushu03/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Divide and Conquer
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -263,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
