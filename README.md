@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/naushu03/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
