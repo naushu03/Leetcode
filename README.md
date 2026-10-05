@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naushu03/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/naushu03/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/naushu03/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naushu03/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naushu03/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/naushu03/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/naushu03/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
