@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naushu03/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/naushu03/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/naushu03/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/naushu03/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naushu03/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
