@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/naushu03/Leetcode/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/naushu03/Leetcode/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/naushu03/Leetcode/tree/master/0815-bus-routes) |
+| [0867-transpose-matrix](https://github.com/naushu03/Leetcode/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/naushu03/Leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/naushu03/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/naushu03/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/naushu03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/naushu03/Leetcode/tree/master/0174-dungeon-game) |
+| [0867-transpose-matrix](https://github.com/naushu03/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/naushu03/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
