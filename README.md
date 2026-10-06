@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/naushu03/Leetcode/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/naushu03/Leetcode/tree/master/0815-bus-routes) |
 | [0867-transpose-matrix](https://github.com/naushu03/Leetcode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/naushu03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/naushu03/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/naushu03/Leetcode/tree/master/0994-rotting-oranges) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/naushu03/Leetcode/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/naushu03/Leetcode/tree/master/0721-accounts-merge) |
+| [0881-boats-to-save-people](https://github.com/naushu03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naushu03/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naushu03/Leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/naushu03/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/naushu03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -321,9 +324,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/naushu03/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/naushu03/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
