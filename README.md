@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1480-running-sum-of-1d-array](https://github.com/naushu03/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/naushu03/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naushu03/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/naushu03/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/naushu03/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/naushu03/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/naushu03/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naushu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/naushu03/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
