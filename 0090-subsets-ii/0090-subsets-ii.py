@@ -1,0 +1,17 @@
+class Solution:
+    def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
+        res=[]
+        n=len(nums)
+        nums.sort()
+        def solve(temp,i):
+            if i>=n:
+                res.append(list(temp))
+                return
+            temp.append(nums[i])
+            solve(temp,i+1)
+            temp.pop()
+            while i+1<n and nums[i]==nums[i+1]:
+                i+=1
+            solve(temp,i+1)
+        solve([],0)
+        return res                    
